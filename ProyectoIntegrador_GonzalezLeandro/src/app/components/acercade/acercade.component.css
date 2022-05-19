@@ -14,8 +14,8 @@ div{
             width: 16%;
             border-radius: 100%;
             box-shadow: 5px 5px 5px rgb(34, 34, 34);
-            left: 4%;
-            top: 600px;
+            left: 3%;
+            top: 650px;
         }
     }
 
@@ -33,14 +33,25 @@ div{
 
     /*etiqueta nombre*/
 #nombre{
-      font-weight: bold;
-      margin-top: 10%;
-      font-size: 25px;
-      line-height: 0.8;
+    color: white;
+    font-weight: bold;
+    margin-top: 10%;
+    font-size: 25px;
+    line-height: 0.8;
 }
 
 #profesion{
+    color: rgb(206, 206, 206);
     margin-top: 5%;
     font-size: 22px;
     line-height: 0.8;
+}
+
+#acercade{
+    color: rgb(206, 206, 206);
+}
+
+#descripcionacerca{
+    color: white;
+    line-height: 1;
 }
